@@ -2997,6 +2997,7 @@ a{
 }
 .cd-schedule{
     position:relative
+
 }
 .cd-schedule::before{
     content:'mobile';
